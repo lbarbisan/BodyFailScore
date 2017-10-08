@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-ex",
+  "name": "BodyFailScore",
   "version": "0.0.1",
-  "description": "Node.js sample app for OpenShift 3",
+  "description": "BodyFail database",
   "main": "server.js",
   "dependencies": {
     "chai": "^3.5.0",
@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/openshift/nodejs-ex.git"
+    "url": "http://github.com/ClementBarbisan/BodyFailScore.git"
   },
-  "author": "Steve Speicher <sspeiche@gmail.com>",
+  "author": "Clément Barbisan <c.barbisan@free.fr>",
   "license": "CC-BY-1.0",
   "bugs": {
-    "url": "http://github.com/openshift/nodejs-ex/issues"
+    "url": "http://github.com/ClementBarbisan/BodyFailScore/issues"
   },
-  "homepage": "http://github.com/openshift/nodejs-ex"
+  "homepage": "http://github.com/ClementBarbisan/BodyFailScore"
 }
